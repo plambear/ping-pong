@@ -91,8 +91,6 @@ while game:
 
 
 
-
-
         racket1.reset()
         racket1.reset()
         ball.reset()
